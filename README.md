@@ -11,7 +11,7 @@
 
 ### Project: WEATHER FORECAST APP
 
-### ObjectivE
+### Objective
 The Weather Application aims to provide users with accurate, real-time weather information for any location. The app allows users to check current weather conditions, forecasts, and other weather-related data with a clean and user-friendly interface.
 
 ### Features
