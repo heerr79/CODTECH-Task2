@@ -11,17 +11,17 @@
 
 ### Project: WEATHER FORECAST APP
 
-### Objective:
+### ObjectivE
 The Weather Application aims to provide users with accurate, real-time weather information for any location. The app allows users to check current weather conditions, forecasts, and other weather-related data with a clean and user-friendly interface.
 
-### Features: 
+### Features
 -**Search by City/Location**: Users can search for weather details of a specific city or location.
 -**Real-Time Weather Information**: Displays real-time weather data, including temperature, humidity, wind speed, and weather conditions.
 -**Geolocation Support**: Users can allow location access to get weather details of their current location.
 -**Responsive UI**: The app is optimized for all devices, including mobile, tablet, and desktop.
 -**Error Handling**: Displays error messages for invalid locations or network issues.
 
-### Technology Stack:
+### Technology Stack
 -Frontend: React.js
 -API Integration: OpenWeatherMap API or WeatherAPI
 -CSS Frameworks: Tailwind CSS / Bootstrap / Custom CSS
@@ -33,12 +33,6 @@ The Weather Application aims to provide users with accurate, real-time weather i
 -API Integration: Fetch real-time weather data using OpenWeatherMap API. Use fetch or axios for API calls.
 -Core Features Development: implement location search, current weather display, and forecast functionality.
 
-###Testing & Deployment: Test the app thoroughly for functionality and deploy it on a platform like Vercel or Netlify.
+### Testing & Deployment
+Test the app thoroughly for functionality and deploy it on a platform like Vercel or Netlify.
 
-Challenge: Managing state for dynamic data.
-Solution: Used React's useState and useEffect to handle weather data efficiently.
-
-Possible Future Enhancements
-Add hourly weather forecasts.
-Integrate radar maps for visualizing weather conditions.
-Implement user preferences for temperature units (Celsius/Fahrenheit).
